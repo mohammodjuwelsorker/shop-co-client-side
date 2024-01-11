@@ -1,0 +1,12 @@
+
+
+/* google font  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+/* the all content font website this is font using */
+body{
+   font-family: 'Roboto', sans-serif;
+}
+/* doc tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
